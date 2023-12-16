@@ -14,6 +14,14 @@ The application employs OpenAI's GPT-3.5 Turbo models to evaluate the security r
 
 If the PR's risk level exceeds a predefined threshold, PR-ThreatAware takes action by adding reviewers from the security team to ensure comprehensive evaluation and mitigation of potential security risks.
 
+#### PR that introduces Security Risk
+<img width="1092" alt="290974888-366968c8-15ac-48f2-98e8-0c451c77354b" src="https://github.com/raxpd/threataware/assets/42084500/78d25187-83c7-4b83-ad37-7c9fed9d567b">
+<img width="982" alt="290974953-4073d839-d9e6-4185-89d8-44f22d0e4841" src="https://github.com/raxpd/threataware/assets/42084500/a5261d44-f384-4acf-8280-a4d23715becc">
+
+
+#### PR that does not introduce Security Risk
+<img width="954" alt="290975013-79d7be96-a5fe-427d-9f4b-3392be8a8936" src="https://github.com/raxpd/threataware/assets/42084500/2881d670-a05b-4e88-b8d1-c7f5d9dd85e1">
+
 ## Installation
 
 To install PR-ThreatAware within your GitHub organization, follow these steps:
