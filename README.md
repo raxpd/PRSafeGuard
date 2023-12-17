@@ -34,11 +34,3 @@ To install gh-ThreatAware within your GitHub organization, follow these steps:
 ## Configuration
 
 Customize the risk threshold and reviewer assignment logic according to your organization's security policies and requirements. These configurations are adjustable within the designated configuration files provided with the application.
-
-## Contributing
-
-Contributions are welcome! Fork the gh-ThreatAware repository, make necessary changes or enhancements, and submit pull requests to contribute to the application's functionality or resolve identified issues.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE.md).
